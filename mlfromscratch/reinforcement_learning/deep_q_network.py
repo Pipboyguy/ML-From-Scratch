@@ -8,6 +8,8 @@ from collections import deque
 class DeepQNetwork():
     """Q-Learning with deep neural network to learn the control policy. 
     Uses a deep neural network model to predict the expected utility (Q-value) of executing an action in a given state. 
+    asdlfnslakdnfn alknasd lkads lfka
+
 
     Reference: https://arxiv.org/abs/1312.5602
     Parameters:
